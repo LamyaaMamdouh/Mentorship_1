@@ -114,18 +114,5 @@ Open index.html in your browser
 
 Explore all pages using navigation links
 
-📸 Screenshots
-
-(Add screenshots of your project here)
-
-Home Page
-
-
-About Page
-
-
-Portfolio Page
-
-
 ✨ Thank you for visiting my portfolio!
 💌 Your feedback is always welcome — head to the Contact page to share your thoughts.
